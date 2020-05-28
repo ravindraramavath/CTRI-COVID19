@@ -28,4 +28,4 @@ This data and files are  available under the [Creative Commons Attribution 4.0 I
 ## Author
 This data has been collected, cleaned and analysed by [Ravindra](https://ravi.rajiniravi.com).
 
-If you want to add to the data, or have any suggestions, please email [ravindra.ramavath@gmail.com](mailto:ravindra.ramavath@gmail.com).
+If you want to add to the data, or have any suggestions, please email [me](mailto:ravindra.ramavath@gmail.com).
