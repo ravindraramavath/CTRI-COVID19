@@ -7,9 +7,6 @@ The data has been pulled from [ICMR-CTRI website](Clinicaltrials/advsearch.php) 
 ## Data extraction date
 The data was pulled on 28th May 2020 01:00 hrs. 
 
-## Cleaning
-Additional columns have been added for 'type of intervention' (What) and 'on whom' the trial is being conducted (Who). 
-
 ## Additional fields
 The following additional columns are available to analyse over what the stanadard SERP table in the link above gives  
 * Last Modified On:	
@@ -29,6 +26,9 @@ The following additional columns are available to analyse over what the stanadar
 * Age To 	
 * Gender 	
 * Estimated Duration of Trial  
+
+## Added fields
+Additional columns have been added for 'type of intervention' (What) and 'on whom' the trial is being conducted (Who). 
 
 ## Licence
 This data and files are  available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
