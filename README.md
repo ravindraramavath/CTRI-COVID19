@@ -11,7 +11,7 @@ The data was pulled on 28th May 2020 01:00 hrs.
 Additional columns have been added for 'type of intervention' (What) and 'on whom' the trial is being conducted (Who). 
 
 ## Additional fields
-The following additional columns are available to analyse over what the stanard search SERP table gives in the link above 
+The following additional columns are available to analyse over what the stanadard SERP table in the link above gives  
 * Last Modified On:	
 * Date of First Enrollment (Global)	
 * Date of First Enrollment (India)	
