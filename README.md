@@ -5,22 +5,30 @@ Clinical Trials in India for COVID-19
 The data has been pulled from [ICMR-CTRI website](Clinicaltrials/advsearch.php) with 'COVID' as the keyword.
 
 ## Data extraction date
-The data was pulled on 25th May 2020. 
+The data was pulled on 28th May 2020 01:00 hrs. 
 
 ## Cleaning
-Additional columns have been added for 'type of intervention' (What) and 'on whom' the trial is being condcucted (Who). 
+Additional columns have been added for 'type of intervention' (What) and 'on whom' the trial is being conducted (Who). 
 
-## To add
-1. Will clean the institute names to standardise them for easy search.
-2. Will also add
-   a) Study Design 
-   b) Method of Generating Random Sequence  
-   c) Method of Concealment
-   d) Funding
-   e) Total Sample Size 
-   f) Phase of Trial
-   g) Details of Principal Investigator (without personally identifiable information)
-   h) Link to full study details
+## Additional fields
+The following additional columns are available to analyse over what the stanard search SERP table gives in the link above 
+1)Last Modified On:	
+2)Date of First Enrollment (Global)	
+3)Date of First Enrollment (India)	
+4)Type of Study  	
+5)Study Design 	
+6)Source of Monetary or Material Support  	
+7)Target Sample Size (Total)	
+8)Target Sample Size (From India)	
+9)Phase of Trial  	
+10)Method of Generating Random Sequence  	
+11)Method of Concealment  	
+12)Blinding/Masking  	
+13)No of Sites of Study	
+14)Age From 	
+15)Age To 	
+16)Gender 	
+17)Estimated Duration of Trial  
 
 ## Licence
 This data and files are  available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
