@@ -5,7 +5,7 @@ Clinical Trials in India for COVID-19
 The data has been pulled from [ICMR-CTRI website](Clinicaltrials/advsearch.php) with 'COVID' as the keyword.
 
 ## Data extraction date
-The data was pulled on 28th May 2020 01:00 hrs. 
+The data was pulled on 02nd Jun 2020 09:00 hrs. 
 
 ## Additional fields
 The following additional columns are available to analyse over what the stanadard SERP table in the link above gives  
