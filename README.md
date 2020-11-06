@@ -2,10 +2,10 @@
 Clinical Trials in India for COVID-19. 
 
 ## Source data
-The data has been pulled from [ICMR-CTRI website](Clinicaltrials/advsearch.php) with 'COVID' as the keyword. 213 reslts obtained, 2 studies removed as they are registered before 2020.
+The data has been pulled from [ICMR-CTRI website](Clinicaltrials/advsearch.php) with 'COVID' as the keyword. 626 reslts obtained, 2 studies removed as they are registered before 2020.
 
 ## Data extraction date
-The data was pulled on 24th Jun 2020 14:00 hrs. 
+The data was pulled on 06th November 2020 22:00 hrs.  (the summary  sheet is being updated)
 
 ## Additional fields
 The following additional columns are available to analyse over what the stanadard SERP table in the link above gives  
