@@ -2,10 +2,10 @@
 Clinical Trials in India for COVID-19. 
 
 ## Source data
-The data has been pulled from [ICMR-CTRI website](Clinicaltrials/advsearch.php) with 'COVID' as the keyword. 626 results obtained, 2 studies removed as they are registered before 2020.
+The data has been pulled from [ICMR-CTRI website](Clinicaltrials/advsearch.php) with 'COVID' as the keyword. 
 
 ## Data extraction date
-The data was pulled on 27th May 2021 19:00 hrs.  
+Please check the date of the XL file. The data would be mostly pulled as on that day or one day prior.  I'll try and update this once towards the end of a month. 
 
 ## Additional fields
 The following additional columns are available to analyse over what the stanadard SERP table in the link above gives  
@@ -36,6 +36,6 @@ Additional columns have been added for 'type of intervention' (What) and 'on who
 This data and files are  available under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
 ## Author
-This data has been collected, cleaned and analysed by [Ravindra](https://ravi.rajiniravi.com).
+This data has been collected, cleaned and analysed by [Ravindra]().
 
 If you want to add to the data, or have any suggestions, please email [me](mailto:ravindra.ramavath@gmail.com).
